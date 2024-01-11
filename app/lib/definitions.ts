@@ -6,6 +6,7 @@ export type User = {
   id: string;
   name: string;
   email: string;
+  tipo_usuario:string;
   password: string;
 };
 
